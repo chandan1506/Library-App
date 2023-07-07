@@ -160,7 +160,7 @@ Middleware function to authenticate requests. It checks for a valid JWT token in
 
 Middleware function to authorise requests as per userrole.
 
-##logger
+## logger
 
 Middleware function to to log all requests in log.txt file.
 
