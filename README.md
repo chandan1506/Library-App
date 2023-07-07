@@ -26,9 +26,9 @@ Before running the application, make sure you have the following installed:
 * Mongodb database
 
 # Install the dependencies:
-
-     cd backend
-     npm install
+```
+npm install
+```
 
      "dependencies": {
     "bcrypt": "^5.1.0",
