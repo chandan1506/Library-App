@@ -1,0 +1,6 @@
+URL = /books/64a7bda5acaf477aa46e2f55, HTTP-Method = GET
+URL = /view, HTTP-Method = POST
+URL = /view, HTTP-Method = POST
+URL = /login, HTTP-Method = POST
+URL = /login, HTTP-Method = POST
+URL = /books, HTTP-Method = GET
