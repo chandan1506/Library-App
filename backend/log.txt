@@ -4,3 +4,4 @@ URL = /view, HTTP-Method = POST
 URL = /login, HTTP-Method = POST
 URL = /login, HTTP-Method = POST
 URL = /books, HTTP-Method = GET
+URL = /books, HTTP-Method = GET
