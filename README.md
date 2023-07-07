@@ -16,7 +16,7 @@ This is a small Library app built with Node.js, Express, and TypeScript. It prov
 1. Clone the repository:
    git clone https://github.com/your-username/library-app.git
    
-# Prerequisites
+# Pre - requisites
 Before running the application, make sure you have the following installed:
 
 * Node.js
