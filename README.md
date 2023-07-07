@@ -54,7 +54,7 @@ Before running the application, make sure you have the following installed:
 
 # Start the server:
 
-     ts-node index.ts
+     npm start
 The server will start running on the specified port.
 
 # API Endpoint
